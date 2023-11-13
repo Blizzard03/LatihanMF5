@@ -1,0 +1,5 @@
+module-info.class
+com\mariq\rasyid\latihanmf5\Model\Mahasiswa.class
+com\mariq\rasyid\latihanmf5\FXMLOutputController.class
+com\mariq\rasyid\latihanmf5\App.class
+com\mariq\rasyid\latihanmf5\FXMLiNPUTController.class
